@@ -1,0 +1,6 @@
+C:\Users\Алиса\Documents\SharpDevelop Projects\currency\bin\Debug\currency.exe.config
+C:\Users\Алиса\Documents\SharpDevelop Projects\currency\bin\Debug\currency.exe
+C:\Users\Алиса\Documents\SharpDevelop Projects\currency\bin\Debug\currency.pdb
+C:\Users\Алиса\Documents\SharpDevelop Projects\currency\obj\Debug\currency.csprojResolveAssemblyReference.cache
+C:\Users\Алиса\Documents\SharpDevelop Projects\currency\obj\Debug\currency.exe
+C:\Users\Алиса\Documents\SharpDevelop Projects\currency\obj\Debug\currency.pdb
